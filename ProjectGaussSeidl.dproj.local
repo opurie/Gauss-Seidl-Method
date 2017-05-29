@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899-12-30 00:00:00.000.186,C:\Users\MATEUSZ\Documents\RAD Studio\Projects\Unit1.dfm=E:\Studia\Semestr 4\EAN\Projekt\GaussSeidl.dfm</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.055,=E:\Studia\Semestr 4\EAN\Projekt\Unit1.pas</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.873,=E:\Studia\Semestr 4\EAN\Projekt\IntervalArithmetic32and64.pas</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.186,C:\Users\MATEUSZ\Documents\RAD Studio\Projects\Unit1.pas=E:\Studia\Semestr 4\EAN\Projekt\GaussSeidl.pas</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.565,=C:\Users\MATEUSZ\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.975,E:\Studia\Semestr 4\EAN\Projekt\Unit1.pas=E:\Studia\Semestr 4\EAN\Projekt\Example.pas</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.212,E:\Studia\Semestr 4\EAN\Projekt\GaussSeidlMetoda.pas=E:\Studia\Semestr 4\EAN\Projekt\Unit1.pas</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.764,C:\Users\MATEUSZ\Documents\RAD Studio\Projects\Project1.dproj=E:\Studia\Semestr 4\EAN\Projekt\ProjectGaussSeidl.dproj</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.601,E:\Studia\Semestr 4\EAN\Projekt\OwnType.pas=E:\Studia\Semestr 4\EAN\Projekt\Unit1.pas</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.951,=E:\Studia\Semestr 4\EAN\Projekt\Unit1.pas</Transaction>
     <Transaction>1899-12-30 00:00:00.000.966,=E:\Studia\Semestr 4\EAN\Projekt\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.951,=E:\Studia\Semestr 4\EAN\Projekt\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.186,E:\Studia\Semestr 4\EAN\Projekt\GaussSeidl.dfm=C:\Users\MATEUSZ\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.873,=E:\Studia\Semestr 4\EAN\Projekt\IntervalArithmetic32and64.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.565,=C:\Users\MATEUSZ\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.601,E:\Studia\Semestr 4\EAN\Projekt\Unit1.pas=E:\Studia\Semestr 4\EAN\Projekt\OwnType.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.764,E:\Studia\Semestr 4\EAN\Projekt\ProjectGaussSeidl.dproj=C:\Users\MATEUSZ\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.975,E:\Studia\Semestr 4\EAN\Projekt\Example.pas=E:\Studia\Semestr 4\EAN\Projekt\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.186,E:\Studia\Semestr 4\EAN\Projekt\GaussSeidl.pas=C:\Users\MATEUSZ\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.212,E:\Studia\Semestr 4\EAN\Projekt\Unit1.pas=E:\Studia\Semestr 4\EAN\Projekt\GaussSeidlMetoda.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.055,=E:\Studia\Semestr 4\EAN\Projekt\Unit1.pas</Transaction>
   </Transactions>
 </BorlandProject>
