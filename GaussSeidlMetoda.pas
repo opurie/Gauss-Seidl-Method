@@ -115,7 +115,7 @@ begin
     for j := 0 to m do
     begin
       iends_to_strings(data[i][j], l, r);
-      Writeln(Format('%d %d => %s ; %s', [i, j, l, r]));
+      Writeln(Format('%d %d => %s ; %s', [i+1, j+1, l, r]));
     end;
 end;
 
